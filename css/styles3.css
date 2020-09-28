@@ -60,3 +60,9 @@ a {
 .active:hover {
   background: rgb(71, 114, 233);
 }
+
+@media (max-width: 800px) {
+  body {
+    padding-top: 200px;
+  }
+}
