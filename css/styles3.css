@@ -61,7 +61,7 @@ a {
   background: rgb(71, 114, 233);
 }
 
-@media (max-width: 800px) {
+@media (min-width: 50px) and (max-width: 300px) {
   body {
     padding-top: 200px;
   }
