@@ -44,7 +44,7 @@ body {
   margin-top: 102px;
 }
 
-@media (max-width: 800px) {
+@media (min-width: 50px) and (max-width: 300px) {
   body {
     padding-top: 200px;
   }
