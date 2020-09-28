@@ -43,3 +43,9 @@ body {
 .btn:active {
   margin-top: 102px;
 }
+
+@media (max-width: 800px) {
+  body {
+    padding-top: 200px;
+  }
+}
